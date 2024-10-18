@@ -4,5 +4,5 @@ title: "Peida_Lee's Picture"
 date: 2024-10-08
 ---
 
-  ![Image Update](https://www.helloimg.com/i/2024/10/11/67086ea96a6ad.jpg)
+  ![Image Update](https://www.helloimg.com/i/2024/10/18/6711be6baa13a.jpg)
     This is my picture
